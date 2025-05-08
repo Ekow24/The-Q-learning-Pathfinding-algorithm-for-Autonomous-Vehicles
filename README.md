@@ -21,6 +21,8 @@ This project explores the application of **Q-learning**, an off-policy reinforce
 - **Return-to-Base Capability:** Trains the agent not only to reach the goal but also to return to the base station autonomously.
 - **Performance Metrics:** Visualizes episode rewards, steps taken, and learning efficiency over 300 episodes.
 
+![Agent moving through grid](grid.gif)
+
 ## 🔧 Technologies Used
 
 - Python 
